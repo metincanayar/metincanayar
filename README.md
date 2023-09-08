@@ -6,7 +6,7 @@
 ### <div align="center">I'm Metin, a full-time data analyst 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/metincanayar?tab=repositories)  
+- 🔭 I’m currently working on SQL,Python and Power BI project. 
   
 
 - 🌱 I’m currently learning SQL and Python  
