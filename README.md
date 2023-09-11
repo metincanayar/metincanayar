@@ -49,8 +49,8 @@
 <div align="center">  
 <div align="center"><a href="https://www.hackerrank.com/metincan_ayar" target="_blank"><img style="margin: 12px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Hackerrank" height="60" /></a> </div> 
 <div align="center"><a href="https://academy.patika.dev/tr/certificates/00db69b1" target="_blank"><img style="margin: 12px" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Hackerrank" height="60" /></a>  
-
 </div>
+<div align="center"><a href="https://www.kaggle.com/metincan" target="_blank"><img style="margin: 12px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="60" /></a> </div> 
 
 </td></tr></table>  
 
